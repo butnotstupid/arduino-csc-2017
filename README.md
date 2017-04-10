@@ -7,9 +7,13 @@
 
 # Требуемое оборудование
 * Контроллер Arduino UNO
-* Пьезо-динамик
-* Датчик освещенности
-* Потенциометр
+* [Пьезо-динамик](http://files.amperka.ru/datasheets/hpa17a.pdf)
+* [Датчик освещенности](https://www.arduino.cc/documents/datasheets/LDR-VT90N2.pdf)
+* [Потенциометр](https://www.arduino.cc/documents/datasheets/ACP_potentiometers.pdf)
 
 # Средства разработки
 В качестве основного средства разработки планируется использовать Arduino IDE.
+
+# Cхема
+![alt text](https://cdn-learn.adafruit.com/assets/assets/000/002/302/medium800/learn_arduino_fritzing2.jpg?1396781513)
+(взято с [Pseudo-Thermin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin))
