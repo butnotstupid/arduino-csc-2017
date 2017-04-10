@@ -15,6 +15,6 @@
 В качестве основного средства разработки планируется использовать Arduino IDE.
 
 # Cхема
-![alt text](https://cdn-learn.adafruit.com/assets/assets/000/002/302/medium800/learn_arduino_fritzing2.jpg?1396781513)
+![alt text](scheme.jpg)
 
-(взято с [Pseudo-Thermin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin))
+(частично взято с [Pseudo-Thermin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin))
