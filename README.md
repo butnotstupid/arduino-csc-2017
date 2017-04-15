@@ -18,3 +18,6 @@
 ![alt text](scheme.jpg)
 
 (частично взято с [Pseudo-Thermin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin))
+
+## Электрическая схема
+![alt text](elscheme.jpg)
