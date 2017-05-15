@@ -21,3 +21,6 @@
 
 ## Электрическая схема
 ![alt text](elscheme.jpg)
+
+## Готовая сборка
+![alt text](final.jpg)
